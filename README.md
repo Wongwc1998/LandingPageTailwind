@@ -1,0 +1,1 @@
+A replication of Odin Project's Landing Page(https://www.theodinproject.com/lessons/foundations-landing-page), made with Vite and Tailwind CSS: 

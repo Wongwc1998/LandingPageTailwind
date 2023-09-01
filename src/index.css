@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-[48px] font-black text-gray-50;
+  }
+  h2 {
+    @apply text-[36px]  text-darkblue;
+  }
+  h3 {
+    @apply text-[24px] text-gray-50;
+  }
+}
